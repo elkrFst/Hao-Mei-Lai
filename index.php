@@ -1,7 +1,7 @@
 <?php include("includes/header.php"); ?>
   
   <section class="hero">
-    <h2>¿Cómo quieres tu pedido hoy?</h2>
+    <h2 class="titulo-pedido">¿Cómo quieres tu pedido hoy?</h2>
     <div class="botones">
       <a href="menu.php" class="boton">Pickup</a>
       <a href="menu.php" class="boton">Delivery</a>
@@ -10,20 +10,24 @@
 
   <section class="categorias">
     <div class="categoria">
-      <img src="assets/img/arroz.jpg" alt="Arroz">
+      <i class="fa-solid fa-bowl-rice"></i>
       <p>Arroz</p>
     </div>
     <div class="categoria">
-      <img src="assets/img/noodles.jpg" alt="Noodles">
+      <i class="fa-solid fa-utensils"></i>
       <p>Noodles</p>
     </div>
     <div class="categoria">
-      <img src="assets/img/rollos.jpg" alt="Rollos Primavera">
+      <i class="fa-solid fa-egg"></i>
       <p>Rollos</p>
     </div>
     <div class="categoria">
-      <img src="assets/img/sopa.jpg" alt="Sopas">
+      <i class="fa-solid fa-mug-hot"></i>
       <p>Sopas</p>
+    </div>
+    <div class="categoria">
+      <i class="fa-solid fa-leaf"></i>
+      <p>Té</p>
     </div>
   </section>
 

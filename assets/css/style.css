@@ -38,10 +38,14 @@ nav a:hover {
   padding: 120px 20px;
 }
 
-.hero h2 {
+.hero h2.titulo-pedido {
   font-size: 2.5rem;
   margin-bottom: 15px;
-  color: black;
+  color: black; /* ahora el título es negro */
+  background-color: rgba(255,255,255,0.7);
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
 }
 
 .botones {
@@ -77,11 +81,9 @@ nav a:hover {
 }
 
 .categoria img {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #b30000;
+  font-size: 50px;
+  color: #b30000;
+  margin-bottom: 10px;
 }
 
 .categoria p {
