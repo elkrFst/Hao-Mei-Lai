@@ -13,10 +13,7 @@
       <i class="fa-solid fa-bowl-rice"></i>
       <p>Pickup</p>
     </div>
-    <div class="categoria">
-      <i class="fa-solid fa-utensils"></i>
-      <p> Noodles</p>
-    </div>
+    
     <div class="categoria">
       <i class="fa-solid fa-egg"></i>
       <p>Rollos</p>
@@ -27,7 +24,7 @@
     </div>
     <div class="categoria">
       <i class="fa-solid fa-leaf"></i>
-      <a>Té</a>
+      <p>Té</p>
     </div>
   </section>
 
