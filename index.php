@@ -21,10 +21,7 @@
       <i class="fa-solid fa-egg"></i>
       <p>Rollos</p>
     </div>
-    <div class="categoria">
-      <i class="fa-solid fa-mug-hot"></i>
-      <p>Sopas</p>
-    </div>
+    
     <div class="categoria">
       <i class="fa-solid fa-leaf"></i>
       <p>Té</p>
