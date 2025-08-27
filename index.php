@@ -11,11 +11,11 @@
   <section class="categorias">
     <div class="categoria">
       <i class="fa-solid fa-bowl-rice"></i>
-      <a href="menu.php">Pickup</a>
+      <p>Pickup</p>
     </div>
     <div class="categoria">
       <i class="fa-solid fa-utensils"></i>
-      <p>Noodles</p>
+      <p> Noodles</p>
     </div>
     <div class="categoria">
       <i class="fa-solid fa-egg"></i>
