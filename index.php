@@ -10,21 +10,7 @@
 
   <section class="categorias">
     <div class="categoria">
-      <i class="fa-solid fa-bowl-rice"></i>
-      
-    <div class="categoria">
-      <i class="fa-solid fa-utensils"></i>
-      <p> Noodles</p>
-    </div>
-    <div class="categoria">
-      <i class="fa-solid fa-egg"></i>
-      <p>Rollos</p>
-    </div>
-    <div class="categoria">
-      <i class="fa-solid fa-mug-hot"></i>
-      <p>Sopas</p>
-    </div>
-    <div class="categoria">
+      <i class
       <i class="fa-solid fa-leaf"></i>
       <p>Té</p>
     </div>
