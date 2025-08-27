@@ -11,7 +11,7 @@
   <section class="categorias">
     <div class="categoria">
       <i class="fa-solid fa-bowl-rice"></i>
-      <p>Arroz</p>
+      <a href="menu.php">Pickup</a>
     </div>
     <div class="categoria">
       <i class="fa-solid fa-utensils"></i>
