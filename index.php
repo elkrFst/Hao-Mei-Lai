@@ -11,8 +11,7 @@
   <section class="categorias">
     <div class="categoria">
       <i class="fa-solid fa-bowl-rice"></i>
-      <p>Pickup</p>
-    </div>
+      
     <div class="categoria">
       <i class="fa-solid fa-utensils"></i>
       <p> Noodles</p>
