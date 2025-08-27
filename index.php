@@ -27,7 +27,7 @@
     </div>
     <div class="categoria">
       <i class="fa-solid fa-leaf"></i>
-      <p>Té</p>
+      <a>Té</a>
     </div>
   </section>
 
